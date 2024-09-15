@@ -7,5 +7,4 @@
 ### 🖼️ [Captcha](https://github.com/openhotel/captcha)
 ### 📦 [Asset Editor](https://github.com/openhotel/asset-editor)
 ### 🗺️ [Pathfinding](https://github.com/openhotel/pathfinding)
-### 🧮 [Queue](https://github.com/openhotel/queue)
 ### 🎨 [Art](https://github.com/openhotel/art)
