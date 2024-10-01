@@ -7,5 +7,6 @@
 ### 🔒 [OHAP example](https://github.com/openhotel/auth-example)
 ### 🖼️ [Captcha](https://github.com/openhotel/captcha)
 ### 📦 [Asset Editor](https://github.com/openhotel/asset-editor)
+### 📀 [Updater](https://github.com/openhotel/updater)
 ### 🗺️ [Pathfinding](https://github.com/openhotel/pathfinding)
 ### 🎨 [Art](https://github.com/openhotel/art)
