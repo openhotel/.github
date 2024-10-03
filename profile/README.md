@@ -10,6 +10,8 @@
 ## Libraries
 #### 📀 [Updater](https://github.com/openhotel/updater)
 #### 🗺️ [Pathfinding](https://github.com/openhotel/pathfinding)
+#### 🎞️ [Yaml](https://github.com/openhotel/yaml)
+#### 📜 [Config](https://github.com/openhotel/config)
 
 ## Other
 #### 🎨 [Art](https://github.com/openhotel/art)
