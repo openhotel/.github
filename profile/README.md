@@ -8,13 +8,8 @@
 #### 📦 [Asset Editor](https://github.com/openhotel/asset-editor)
 
 ## Libraries
-#### 📀 [Updater](https://github.com/openhotel/updater)
-#### 🗺️ [Pathfinding](https://github.com/openhotel/pathfinding)
-#### 🎞️ [Yaml](https://github.com/openhotel/yaml)
-#### 📜 [Config](https://github.com/openhotel/config)
-#### 📚 [Db](https://github.com/openhotel/db)
-#### 🌍 [Lang](https://github.com/openhotel/lang)
 #### 🏗️ [Utils](https://github.com/openhotel/utils)
+#### 🗺️ [Pathfinding](https://github.com/openhotel/pathfinding)
 
 ## Other
 #### 🎨 [Art](https://github.com/openhotel/art)
