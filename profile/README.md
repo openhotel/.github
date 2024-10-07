@@ -12,6 +12,7 @@
 #### 🗺️ [Pathfinding](https://github.com/openhotel/pathfinding)
 #### 🎞️ [Yaml](https://github.com/openhotel/yaml)
 #### 📜 [Config](https://github.com/openhotel/config)
+#### 📚 [Db](https://github.com/openhotel/db)
 
 ## Other
 #### 🎨 [Art](https://github.com/openhotel/art)
