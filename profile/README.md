@@ -13,6 +13,8 @@
 #### 🎞️ [Yaml](https://github.com/openhotel/yaml)
 #### 📜 [Config](https://github.com/openhotel/config)
 #### 📚 [Db](https://github.com/openhotel/db)
+#### 🌍 [Lang](https://github.com/openhotel/lang)
+#### 🏗️ [Utils](https://github.com/openhotel/utils)
 
 ## Other
 #### 🎨 [Art](https://github.com/openhotel/art)
