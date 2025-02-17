@@ -102,16 +102,77 @@ We welcome pull requests! Here’s how to ensure a smooth process:
 ---
 
 ## Coding Guidelines
+- **Write Tests**: If possible, add tests for any new functionality. If a feature is hard to test, mention it in your PR. Run existing tests if available.
+- **Follow Commit Guidelines**: Use clear and descriptive commit messages.
+- **Respect the Project Scope**: Ensure contributions align with the project's mission to remain open and non-commercial.
 
-- **Enable Prettier:** Use `npx prettier --write .` to format your code. On Windows, Prettier sometimes bugs out and says that all files have been modified. Ignore it, and add/commit/push normally.
-- **Write Tests:** If you can, add tests for any new functionality. Some features may be hard to test; if so, mention it in your PR. Run tests if they are available.
-- **Follow Commit Guidelines:** Use clear, descriptive commit messages.
-- **Respect the Project Scope:** Ensure contributions align with Open Hotel’s mission to remain open and non-commercial.
+### File Naming
+- Use **kebab-case** for file names (e.g., `my-component.ts`).
+- If files are inside a shared folder like `utils`, `consts`, `enums`, etc., they must have a descriptive suffix:
+  - `my-function.utils.ts`
+  - `config.consts.ts`
+  - `status.enums.ts`
 
-### Development Tips
+### Functions
+- Whenever possible, use **arrow functions**:
+  ```ts
+  const myFunction = () => {
+    // code here
+  };
+  ```
 
+### Variables and Constants
+- Use `camelCase` for variables and functions:
+  ```ts
+  const myVariable = "value";
+  ```
+- Use `UPPER_CASE` for global constants:
+  ```ts
+  const MAX_USERS = 100;
+  ```
+
+### Components and Classes
+- Use `PascalCase` for class and component names:
+  ```ts
+  class UserProfile {}
+  ```
+  ```tsx
+  const MyComponent = () => {
+    return <div>Hello</div>;
+  };
+  ```
+- **Only use classes when there is no other alternative.** Prefer functional programming and simpler constructs whenever possible.
+
+### Imports
+- Order imports in the following order:
+  1. Native Node.js modules
+  2. Third-party libraries
+  3. Internal project imports
+  ```ts
+  import fs from "fs"; // Native module
+  import React from "react"; // Third-party library
+  import { myFunction } from "@/utils/my-function.utils"; // Internal import
+  ```
+
+### Spacing and Code Style
+- Use **2 spaces** for indentation.
+- Avoid semicolons (`;`) at the end of lines.
+- Use single quotes (`'`) instead of double quotes (`"`).
+- Add a blank line between logical code blocks.
+  ```ts
+  const getUser = () => {
+    return { name: "openhotel" };
+  };
+
+  const saveUser = (user) => {
+    console.log(user);
+  };
+  ```
+- **Enable Prettier**: Use `npx prettier --write .` to format your code. On Windows, Prettier sometimes incorrectly marks all files as modified. Ignore it and proceed with `add/commit/push` as usual.
+
+## Development Tips
 - Regularly sync with the `master` branch to avoid conflicts.
-- Run existing tests (if there’s any test) before pushing changes.
+- Run existing tests (if any) before pushing changes.
 
 ---
 
