@@ -11,7 +11,7 @@
 
 ## Libraries
 #### 🏗️ [Utils](https://github.com/openhotel/utils)
-#### 💾 [Components](https://github.com/openhotel/components)
+#### 💾 [Web Components](https://github.com/openhotel/web-components)
 #### 🌷 [Pixi Components](https://github.com/openhotel/pixi-components)
 #### 🗺️ [Pathfinding](https://github.com/openhotel/pathfinding)
 
