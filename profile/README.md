@@ -16,6 +16,7 @@
 #### 🗺️ [Pathfinding](https://github.com/openhotel/pathfinding)
 
 ## Other
+#### 🎮 [Open Hotel Game Template](https://github.com/openhotel/game-template) 
 #### 🎨 [Art](https://github.com/openhotel/art)
 #### 🔒 [OHAP example](https://github.com/openhotel/auth-example)
 #### 🦋 [At](https://github.com/openhotel/at)
