@@ -8,6 +8,7 @@
 #### 🖼️ [Captcha](https://github.com/openhotel/captcha)
 #### 📦 [Asset Editor](https://github.com/openhotel/asset-editor)
 #### 📜 [Static](https://github.com/openhotel/static)
+#### ⚙️ [Aseprite Scripts](https://github.com/openhotel/aseprite-scripts)
 
 ## Libraries
 #### 🏗️ [Utils](https://github.com/openhotel/utils)
