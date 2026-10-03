@@ -11,6 +11,7 @@
 #### ⚙️ [Aseprite Scripts](https://github.com/openhotel/aseprite-scripts)
 
 ## Libraries
+#### 🧱 [Core](https://github.com/openhotel/core)
 #### 🏗️ [Utils](https://github.com/openhotel/utils)
 #### 🎮 [Game Utils](https://github.com/openhotel/game-utils)
 #### 💾 [Web Components](https://github.com/openhotel/web-components)
