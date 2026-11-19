@@ -9,4 +9,4 @@
 
 ## Other
 #### 🎮 [Open Hotel Game Template](https://github.com/openhotel/game-template) 
-#### 🎨 [Art](https://github.com/openhotel/art
+#### 🎨 [Art](https://github.com/openhotel/art)
